@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "Ana (Short Ver.)",
+  "base_artist": "Lia和VISUAL ARTS / Key",
+  "createdAt": "2026-03-19T14:00:29.399865Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Ana (short ver.)",
+      "artist": "Lia",
+      "has_synced": true,
+      "path": "select/01_Ana_(short_ver.)_Lia.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Ana (short ver.)",
+      "artist": "riya",
+      "has_synced": true,
+      "path": "select/02_Ana_(short_ver.)_riya.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Ana (short ver.)",
+      "artist": "riya",
+      "has_synced": false,
+      "path": "select/03_Ana_(short_ver.)_riya.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Ana (short ver.)",
+      "artist": "VA",
+      "has_synced": true,
+      "path": "select/04_Ana_(short_ver.)_VA.lrc"
+    }
+  ]
+}
